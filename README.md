@@ -8,7 +8,7 @@
 
 ---
 
-# 1. Introdução
+# Introdução
 
 O crescimento da mobilidade elétrica tem aumentado significativamente a demanda por infraestrutura de recarga eficiente e sustentável. Nesse contexto, os eletropostos precisam gerenciar de forma inteligente os recursos energéticos disponíveis, reduzindo desperdícios e minimizando impactos ambientais.
 
@@ -16,7 +16,7 @@ O projeto **GreenVolt** propõe uma solução inteligente para gerenciamento ene
 
 ---
 
-# 2. Problema
+# Problema
 
 Os eletropostos atuais enfrentam diversos desafios relacionados ao consumo e gerenciamento de energia:
 
@@ -30,7 +30,7 @@ Esses fatores aumentam os custos operacionais e reduzem a sustentabilidade da in
 
 ---
 
-# 3. Objetivos
+# Objetivos
 
 ## Objetivo Geral
 
@@ -47,7 +47,7 @@ Desenvolver um sistema inteligente capaz de gerenciar o fornecimento de energia 
 
 ---
 
-# 4. Arquitetura da Solução
+# Arquitetura da Solução
 
 ## Visão Geral
 
@@ -71,7 +71,7 @@ Caso a energia solar seja insuficiente, o sistema utiliza a rede elétrica como 
 
 ---
 
-# 5. Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 ## Hardware
 
@@ -90,7 +90,7 @@ Caso a energia solar seja insuficiente, o sistema utiliza a rede elétrica como 
 
 ---
 
-# 6. Protótipo Funcional
+# Protótipo Funcional
 
 A prova de conceito foi implementada por meio de uma simulação computacional.
 
@@ -111,7 +111,7 @@ Com base nesses dados, o algoritmo decide automaticamente a melhor forma de alim
 
 ---
 
-# 7. Código de Demonstração
+# Código de Demonstração
 
 ```python
 energia_solar = 35
@@ -139,7 +139,7 @@ else:
 
 ---
 
-# 8. Dados Simulados
+# Dados Simulados
 
 | Horário | Energia Solar (kWh) | Demanda (kWh) |
 | ------- | ------------------- | ------------- |
@@ -151,7 +151,7 @@ else:
 
 ---
 
-# 9. Resultados Obtidos
+# Resultados Obtidos
 
 A simulação demonstrou que:
 
@@ -162,7 +162,7 @@ A simulação demonstrou que:
 
 ---
 
-# 10. Sustentabilidade e Energias Renováveis
+# Sustentabilidade e Energias Renováveis
 
 O GreenVolt foi desenvolvido com foco nos princípios de sustentabilidade estudados durante o semestre.
 
@@ -181,7 +181,7 @@ Além disso, o uso de arquitetura RISC-V e conceitos de programação Assembly c
 
 ---
 
-# 11. Impactos Esperados
+# Impactos Esperados
 
 ## Impactos Ambientais
 
@@ -201,34 +201,7 @@ Além disso, o uso de arquitetura RISC-V e conceitos de programação Assembly c
 * Apoio à transição energética;
 * Desenvolvimento de tecnologias sustentáveis.
 
----
-
-# 12. Como Executar
-
-## Pré-requisitos
-
-* Python 3.10 ou superior
-
-## Execução
-
-```bash
-python greenvolt.py
-```
-
----
-
-# 13. Demonstração em Vídeo
-
-O vídeo demonstra:
-
-* Funcionamento do sistema;
-* Cenários de uso;
-* Benefícios energéticos;
-* Aplicação dos conceitos de sustentabilidade e energias renováveis.
-
----
-
-# 14. Conclusão
+# Conclusão
 
 O GreenVolt demonstrou a viabilidade técnica de um sistema inteligente de gerenciamento energético para eletropostos sustentáveis.
 
